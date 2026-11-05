@@ -1,0 +1,26 @@
+random_int = radom.randint(1,10)
+print(random_int)
+
+deck_of_card = ["King of spades", "8 of hearts", "2 of Diamonds"]
+random_card =random.choice(deck)
+
+
+answer =math.sprt(64)
+print(answer)
+
+
+
+
+File I/O
+Reading, writing Append
+it open ("demo.txt", "a") as file:
+file.write("File I/O is sooo fun!\n")
+
+
+
+
+File I/O 
+Reading, writing Append
+it open ("demo.txt, "a") as file:
+         file. write("File I/O what is your user name\n")
+         
